@@ -3,7 +3,7 @@
   "name": "particles new tab",
   "author": "Andreas Bigger",
   "version": "1.2.0",
-  "description": "Basic particles tab for google chrome",
+  "description": "Basic particles tab for Google chrome",
   "incognito": "split",
   "icons": {
     "16": "img/16.png",
